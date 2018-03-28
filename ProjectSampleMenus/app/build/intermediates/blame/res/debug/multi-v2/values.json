@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\vivek\\Desktop\\Android class\\ProjectSampleMenus\\ProjectSampleMenus\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vivek\\Desktop\\Android class\\ProjectSampleMenus\\ProjectSampleMenus\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "50",
+                        "endOffsets": "101"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vivek\\Desktop\\Android class\\ProjectSampleMenus\\ProjectSampleMenus\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "1,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "17,77",
+                        "endColumns": "58,62",
+                        "endOffsets": "71,135"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "106,164",
+                        "endColumns": "57,61",
+                        "endOffsets": "159,221"
+                    }
+                }
+            ]
+        }
+    ]
+}

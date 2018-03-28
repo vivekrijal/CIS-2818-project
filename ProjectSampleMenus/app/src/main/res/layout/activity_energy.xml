@@ -1,0 +1,53 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/SetTempBut"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EnergyActivity">
+
+    <TextView
+        android:id="@+id/JustTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="Energy"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/SetTempBut"
+
+        android:layout_width="160dp"
+        android:layout_height="50dp"
+        android:text="Set Temp"
+        android:textSize="12sp"
+        android:layout_marginTop="37dp"
+        android:layout_below="@+id/JustTextView"
+        android:layout_alignLeft="@+id/ManaLightBut"
+        android:layout_alignStart="@+id/ManaLightBut" />
+
+    <Button
+        android:id="@+id/ManaLightBut"
+
+        android:layout_width="160dp"
+        android:layout_height="45dp"
+        android:layout_marginLeft="22dp"
+        android:text="Manage lights"
+        android:textSize="12sp"
+        android:layout_marginStart="22dp"
+        android:layout_below="@+id/ManaAppBut"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/ManaAppBut"
+
+        android:layout_width="160dp"
+        android:layout_height="45dp"
+        android:text="Manage Appliances"
+        android:textSize="12sp"
+        android:layout_below="@+id/SetTempBut"
+        android:layout_alignLeft="@+id/SetTempBut"
+        android:layout_alignStart="@+id/SetTempBut" />
+
+
+</RelativeLayout>

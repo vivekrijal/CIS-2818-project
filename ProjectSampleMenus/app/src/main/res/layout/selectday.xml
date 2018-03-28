@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/JustTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="Select Day"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/DayBut1"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="160dp"
+        android:layout_height="45dp"
+        android:layout_below="@+id/JustTextView"
+        android:layout_marginLeft="25dp"
+        android:text="Monday"
+        android:textSize="12sp"
+        />
+
+    <Button
+        android:id="@+id/DayBut2"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="160dp"
+        android:layout_height="45dp"
+        android:layout_below="@+id/JustTextView"
+        android:layout_marginLeft="25dp"
+        android:text="Tuesday"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/DayBut3"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="160dp"
+        android:layout_height="45dp"
+        android:layout_below="@+id/JustTextView"
+        android:layout_marginLeft="25dp"
+        android:text="Wednesday"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/DayBut4"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="160dp"
+        android:layout_height="45dp"
+        android:layout_below="@+id/JustTextView"
+        android:layout_marginLeft="25dp"
+        android:text="Thursday"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/DayBut5"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="160dp"
+        android:layout_height="45dp"
+        android:layout_below="@+id/JustTextView"
+        android:layout_marginLeft="25dp"
+        android:text="Friday"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/DayBut6"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="160dp"
+        android:layout_height="45dp"
+        android:layout_below="@+id/JustTextView"
+        android:layout_marginLeft="25dp"
+        android:text="Saturday"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/DayBut7"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="160dp"
+        android:layout_height="45dp"
+        android:layout_below="@+id/JustTextView"
+        android:layout_marginLeft="25dp"
+        android:text="Sunday"
+        android:textSize="12sp" />
+</LinearLayout>

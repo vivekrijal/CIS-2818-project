@@ -1,0 +1,174 @@
+[
+    {
+        "outputFile": "C:\\Users\\cwcis\\Downloads\\ProjectSampleMenus\\ProjectSampleMenus\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "C:\\Users\\cwcis\\Downloads\\ProjectSampleMenus\\ProjectSampleMenus\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 63,
+                        "endOffset": 76
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 118,
+                    "endColumn": 72,
+                    "endOffset": 186
+                },
+                "from": {
+                    "file": "C:\\Users\\cwcis\\Downloads\\ProjectSampleMenus\\ProjectSampleMenus\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 82,
+                        "endColumn": 73,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\wmschane\\Desktop\\CIS 2818\\2016 Winter\\Project Material\\ProjectSampleMenus\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "C:\\Users\\wmschane\\Desktop\\CIS 2818\\2016 Winter\\Project Material\\ProjectSampleMenus\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 63,
+                        "endOffset": 76
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 118,
+                    "endColumn": 72,
+                    "endOffset": 186
+                },
+                "from": {
+                    "file": "C:\\Users\\wmschane\\Desktop\\CIS 2818\\2016 Winter\\Project Material\\ProjectSampleMenus\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 82,
+                        "endColumn": 73,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\ProjectSampleMenus\\ProjectSampleMenus\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "E:\\ProjectSampleMenus\\ProjectSampleMenus\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 63,
+                        "endOffset": 76
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 118,
+                    "endColumn": 72,
+                    "endOffset": 186
+                },
+                "from": {
+                    "file": "E:\\ProjectSampleMenus\\ProjectSampleMenus\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 82,
+                        "endColumn": 73,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\vivek\\Desktop\\Android class\\ProjectSampleMenus\\ProjectSampleMenus\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "C:\\Users\\vivek\\Desktop\\Android class\\ProjectSampleMenus\\ProjectSampleMenus\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 63,
+                        "endOffset": 76
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 118,
+                    "endColumn": 72,
+                    "endOffset": 186
+                },
+                "from": {
+                    "file": "C:\\Users\\vivek\\Desktop\\Android class\\ProjectSampleMenus\\ProjectSampleMenus\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 82,
+                        "endColumn": 73,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    }
+]

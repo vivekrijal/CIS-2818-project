@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecurityActivity" >
+
+
+    <TextView
+        android:id="@+id/JustTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="Protection"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/ViewRoomsBut"
+
+        android:layout_width="160dp"
+        android:layout_height="45dp"
+        android:layout_marginLeft="24dp"
+        android:text="View Rooms"
+        android:textSize="12sp"
+        android:layout_marginStart="24dp"
+        android:layout_below="@+id/JustTextView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/ViewAlertBut"
+
+        android:layout_width="160dp"
+        android:layout_height="45dp"
+        android:text=" View Alert History"
+        android:textSize="12sp"
+        android:layout_below="@+id/ViewRoomsBut"
+        android:layout_alignLeft="@+id/ViewRoomsBut"
+        android:layout_alignStart="@+id/ViewRoomsBut" />
+
+    <Button
+        android:id="@+id/EntryAcBut"
+
+        android:layout_width="160dp"
+        android:layout_height="45dp"
+        android:text="Entry Access"
+        android:textSize="12sp"
+        android:layout_below="@+id/ViewAlertBut"
+        android:layout_alignLeft="@+id/ViewAlertBut"
+        android:layout_alignStart="@+id/ViewAlertBut" />
+</RelativeLayout>

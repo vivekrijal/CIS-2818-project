@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_health"
+          android:title="Health"
+          android:icon="@drawable/health"
+          android:showAsAction="always" />
+    <item android:id="@+id/menu_security"
+          android:title="Security"
+          android:icon="@drawable/security"
+          android:showAsAction="always" />
+    <item android:id="@+id/menu_energy"
+          android:title="Energy"
+          android:icon="@drawable/energy"
+          android:showAsAction="always" />
+</menu>

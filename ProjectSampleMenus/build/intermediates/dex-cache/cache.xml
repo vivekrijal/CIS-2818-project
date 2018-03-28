@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\wmschane\Desktop\CIS 2818\2016 Winter\Project Material\ProjectSampleMenus\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="de2ba0d8632a7209d1d79ab36b3438829c0a975c">
+        <dex dex="C:\Users\wmschane\Desktop\CIS 2818\2016 Winter\Project Material\ProjectSampleMenus\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e2a6d659a294959485cbc5b9d45ce20b51cffb8f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\wmschane\Desktop\CIS 2818\2016 Winter\Project Material\ProjectSampleMenus\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="64e7baa77cfef48306466610ca7a93685a01a63e">
+        <dex dex="C:\Users\wmschane\Desktop\CIS 2818\2016 Winter\Project Material\ProjectSampleMenus\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5b0fbfc661cfacad0b6a3828d3ee6acb4acc38c1\classes.dex" />
+    </item>
+
+</items>

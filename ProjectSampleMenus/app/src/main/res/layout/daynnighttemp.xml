@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:baselineAligned="false">
+
+    <TextView
+        android:id="@+id/Labels"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Day Start"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/DayTime Edit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/Labels"
+        android:layout_marginLeft="5dp"
+        android:layout_toRightOf="@+id/Labels"
+        android:ems="8"
+        android:inputType="number"
+        android:text="      "
+        android:textSize="20sp">
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/Labels"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Temp"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/DayTempedit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/Labels"
+        android:layout_marginLeft="5dp"
+        android:layout_toRightOf="@+id/Labels"
+        android:ems="8"
+        android:inputType="number"
+        android:text="   "
+        android:textSize="20sp">
+
+        <requestFocus />
+    </EditText>
+
+
+    <TextView
+        android:id="@+id/Labels"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Night Start"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/NightTimeEdit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/Labels"
+        android:layout_marginLeft="5dp"
+        android:layout_toRightOf="@+id/Labels"
+        android:ems="8"
+        android:inputType="number"
+        android:text="      "
+        android:textSize="20sp">
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/Labels"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="Temp"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/NightTempEdit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/Labels"
+        android:layout_marginLeft="5dp"
+        android:layout_toRightOf="@+id/Labels"
+        android:ems="8"
+        android:inputType="number"
+        android:text="   "
+        android:textSize="20sp">
+
+        <requestFocus />
+    </EditText>
+</LinearLayout>
